@@ -1,6 +1,7 @@
 # module6_assignment
 
 A new Flutter project.
+![Screenshot of my project](https://github.com/cmtboy/module6_assignment/blob/main/mod6.jpg)
 
 ## Getting Started
 
